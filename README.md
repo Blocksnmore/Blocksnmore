@@ -10,7 +10,7 @@ I'm Blocks_n_more, a self taught developer writing primarily in JS/TS & Java
 
 > 🏆 406 Contributions in the Year 2021
  > 
-> 📦 90.0 kB Used in GitHub's Storage 
+> 📦 90.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,5 +71,5 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Blocksnmore/Blocksnmore/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/10/2021
+ Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
