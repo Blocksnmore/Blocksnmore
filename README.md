@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)<br>
 I'm Blocks_n_more, a self taught developer writing primarily in JS/TS & Java
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
