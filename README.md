@@ -75,3 +75,4 @@ Python                   2 repos             █░░░░░░░░░░�
 
  Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
+![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
