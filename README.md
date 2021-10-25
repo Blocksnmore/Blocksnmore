@@ -47,6 +47,6 @@ VS Code                  13 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
 ![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
