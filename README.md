@@ -3,6 +3,8 @@
 I'm Blocks_n_more, a self taught developer writing primarily in JS/TS & Java
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark)
+![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=blocksnmore&theme=dark&hide_border=true)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -49,4 +51,3 @@ VS Code                  13 hrs 56 mins      ███████████�
 
  Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
-![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
