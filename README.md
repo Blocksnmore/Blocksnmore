@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)<br>
-I'm Blocks_n_more, a self taught developer writing primarily in JS/TS & Java
+I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I also kinda hate css, it just sucks to work with
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark)
 ![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
