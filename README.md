@@ -6,8 +6,6 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 ![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=blocksnmore&theme=dark&hide_border=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -39,17 +37,17 @@ Sunday       103 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 3 mins        ██████████████░░░░░░░░░░░   59.22% 
-SCSS                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+TypeScript               6 hrs 45 mins       █████████████░░░░░░░░░░░░   54.8% 
+SCSS                     3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.92% 
+HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
 
 🔥 Editors: 
-VS Code                  10 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
