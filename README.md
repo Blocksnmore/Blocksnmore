@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)<br>
 I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I also kinda hate css, it just sucks to work with
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark)
-![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blocksnmore&theme=github_dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark&hide_border=true)
+![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=blocksnmore&theme=dark&hide_border=true)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
