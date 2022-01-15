@@ -1,37 +1,36 @@
-### Hi there 👋
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)<br>
-I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I also kinda hate css, it just sucks to work with
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blocksnmore&theme=github_dark)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=blocksnmore&show_icons=true&theme=dark&hide_border=true)
-![Code chart](https://github-readme-stats.vercel.app/api/top-langs/?username=blocksnmore&layout=compact&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=blocksnmore&theme=dark&hide_border=true)
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+</h2>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg">
+</p>
+
+## About
+I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I'm currently learning Rust
+
+## Flex zone
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blocksnmore&theme=github_dark">
+</p>
+<p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blocksnmore&show_icons=true&theme=dark&hide_border=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blocksnmore&layout=compact&theme=dark&hide_border=true"> 
+</p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blocksnmore&theme=dark&hide_border=true">
+</p>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Blocksnmore&theme=github&hide_border=true"> 
+</p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Blocksnmore&theme=nord">
+</p>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-🌆 Daytime    373 commits    ███████████████░░░░░░░░░░   63.01% 
-🌃 Evening    133 commits    █████░░░░░░░░░░░░░░░░░░░░   22.47% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Tuesday      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Wednesday    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
-Thursday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Saturday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
-Sunday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
