@@ -28,8 +28,6 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2042%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,5 +44,5 @@ VS Code                  9 hrs 46 mins       ███████████�
 ```
 
 
- Last Updated on 20/02/2022 05:15:22 UTC
+ Last Updated on 21/02/2022 05:16:34 UTC
 <!--END_SECTION:waka-->
