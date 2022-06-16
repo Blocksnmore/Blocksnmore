@@ -23,9 +23,6 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Blocksnmore&theme=github&hide_border=true"> 
 </p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Blocksnmore&theme=nord">
-</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
