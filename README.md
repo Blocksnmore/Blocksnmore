@@ -7,7 +7,7 @@
 </p>
 
 ## About
-I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I'm currently learning Rust
+I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I'm currently working on creating my own game engine called [Sorse](https://github.com/Wave-Studio/sorse2)
 
 ## Flex zone
 <p align="center">
