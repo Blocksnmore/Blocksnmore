@@ -25,8 +25,8 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2039%20mins-blue)
 
 
- Last Updated on 14/09/2022 06:07:54 UTC
+ Last Updated on 15/09/2022 06:03:18 UTC
 <!--END_SECTION:waka-->
