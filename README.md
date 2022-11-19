@@ -31,16 +31,13 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 
 ```text
 💬 Programming Languages: 
-C#                       13 mins             ███████████████████░░░░░░   78.39% 
-Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.44% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 18/11/2022 05:17:51 UTC
+ Last Updated on 19/11/2022 05:17:00 UTC
 <!--END_SECTION:waka-->
