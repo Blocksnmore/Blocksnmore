@@ -27,21 +27,6 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2041%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Java                     1 hr 27 mins        ██████████████████████░░░   89.99% 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
-
-🔥 Editors: 
-IntelliJ                 1 hr 27 mins        ██████████████████████░░░   90.77% 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
-
-```
-
-
- Last Updated on 12/12/2022 05:15:56 UTC
+ Last Updated on 13/12/2022 05:16:26 UTC
 <!--END_SECTION:waka-->
