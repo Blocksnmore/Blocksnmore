@@ -21,7 +21,7 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blocksnmore&theme=dark&hide_border=true">
 </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Blocksnmore&theme=github&hide_border=true"> 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Blocksnmore&theme=github&hide_border=true"> 
 </p>
 
 <!--START_SECTION:waka-->
