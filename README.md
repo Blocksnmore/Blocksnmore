@@ -14,8 +14,8 @@ I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & M
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blocksnmore&theme=github_dark">
 </p>
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blocksnmore&show_icons=true&theme=dark&hide_border=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blocksnmore&layout=compact&theme=dark&hide_border=true"> 
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blocksnmore&show_icons=true&theme=dark&hide_border=true">
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Blocksnmore&layout=compact&theme=dark&hide_border=true"> 
 </p>
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blocksnmore&theme=dark&hide_border=true">
