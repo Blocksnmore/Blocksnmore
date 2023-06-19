@@ -1,29 +1,21 @@
-<h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
-</h2>
+# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
+I'm Bloxs (Still known as Blocks_n_more/Blocksnmore/Blocks on some platforms). I'm a self taught developer primairly working in Typescript but I also sometimes work in Java, C# or Javascript. 
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg">
-</p>
+## Contact
+The best way to message me is via [twitter](https://twitter.com/blocksnmore). I might take a bit to check your dm so please be patient!
 
-## About
-I'm Blocks_n_more, a self taught student who primairly plays Team Fortress 2 & Minecraft & develop primarily in JS/TS & Java. I'm currently working on creating my own game engine called [Sorse](https://github.com/Wave-Studio/sorse2)
+## Flex Zone
+### Github Stats
+<div style="display: flex;" align="center">
+  <img src="https://readme-stats-gules.vercel.app/api?username=Blocksnmore&bg_color=23272A&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=3d34eb&hide_border=true&border_radius=10" alt="Bloxs' Github Stats" style="height: 13rem" />
+ <img src="https://readme-stats-gules.vercel.app/api/top-langs/?username=Blocksnmore&layout=donut&count_private=true&hide_border=true&bg_color=23272A&title_color=fff&text_color=fff&icon_color=3d34eb&border_radius=10" alt="Bloxs' Github Languages" style="height: 13rem;" />
+</div>
+<div style="display: flex;" align="center">
+  <img src="https://streak-stats.demolab.com?user=Blocksnmore&theme=github-dark-blue&hide_border=true" alt="Bloxs' Commit Streak">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blocksnmore&theme=github_dark" alt="Bloxs' Top Committed Languages">
+</div>
 
-## Flex zone
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blocksnmore&theme=github_dark">
-</p>
-<p align="center">
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blocksnmore&show_icons=true&theme=dark&hide_border=true">
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Blocksnmore&layout=compact&theme=dark&hide_border=true"> 
-</p>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blocksnmore&theme=dark&hide_border=true">
-</p>
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blocksnmore&theme=github&hide_border=true"> 
-</p>
-
+### IDE Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2057%20mins-blue)
 
