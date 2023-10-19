@@ -18,22 +18,22 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ### IDE Stats
 *I currently don't code in perl, so any time spent developing in `Mason` is me developing in `mcfunction` using a library for compiling custom code to functions
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2020%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 24 mins       █████████████████████░░░░   84.91 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Objective-C              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               5 hrs 25 mins       █████████████████████░░░░   85.55 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/10/2023 05:12:47 UTC
+ Last Updated on 19/10/2023 05:12:57 UTC
 <!--END_SECTION:waka-->
