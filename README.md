@@ -18,8 +18,6 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ### IDE Stats
 *I currently don't code in perl, so any time spent developing in `Mason` is me developing in `mcfunction` using a library for compiling custom code to functions
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2049%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,5 +33,5 @@ VS Code                  2 hrs 55 mins       ███████████�
 ```
 
 
- Last Updated on 04/11/2024 05:18:25 UTC
+ Last Updated on 05/11/2024 05:17:11 UTC
 <!--END_SECTION:waka-->
