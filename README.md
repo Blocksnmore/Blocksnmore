@@ -20,6 +20,20 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2038%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 28/05/2025 05:19:56 UTC
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 47 mins       ██████████████████████░░░   88.73 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2025 05:20:36 UTC
 <!--END_SECTION:waka-->
