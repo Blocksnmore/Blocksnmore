@@ -20,7 +20,7 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +37,5 @@ VS Code                  1 hr 34 mins        ███████████�
 ```
 
 
- Last Updated on 16/07/2025 05:33:34 UTC
+ Last Updated on 17/07/2025 05:32:20 UTC
 <!--END_SECTION:waka-->
